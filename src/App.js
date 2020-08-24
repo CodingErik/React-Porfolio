@@ -42,6 +42,8 @@ class App extends Component {
     this.getResumeData();
   }
 
+  // this where the data is being linked up with the resume 
+  // we are passint attributes to the components 
   render() {
     return (
       <div className="App">
