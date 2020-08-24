@@ -9,6 +9,7 @@
     "phone": "512-589-7353",
     "github":"https://github.com/CodingErik",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "linked":"https://www.linkedin.com/in/erik-deluna-b80b89b3/",
     "address":{
       "street":"(Your Street)",
       "city":"Austin",
@@ -57,10 +58,10 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Joseph Costello",
+        "title":"Social media management",
+        "years":"March 2018 - Present",
+        "description":"I work for a youtuber! I'm mostly in charge of managing a collection of social media accounts, and branding/social media deals."
       },
       {
         "company":"Super Cool Studio",
@@ -109,28 +110,28 @@
         "url":"https://notestakerr.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Coding Quiz",
+        "category":"Short coding quiz to test your knowledge",
+        "image":"CodingQuiz.png",
+        "url":"https://codingerik.github.io/Coding-Quiz/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Employee-Management-System",
+        "category":"Manage your employee database through a simple CLI",
+        "image":"Employee-Management-System.png",
+        "url":"https://github.com/CodingErik/Employee-Management-System"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Fitness Tracker",
+        "category":"A fitness tracker to keep track of your stats",
+        "image":"FitnessTracker.png",
+        "url":"https://github.com/CodingErik/Fitness-Tracker"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Weather Dashboard",
+        "category":"App that lets you see the see local weather conditions",
+        "image":"WeatherDashboard.png",
+        "url":"https://github.com/CodingErik/Weather_DashBoard"
       }
     ]
   }
