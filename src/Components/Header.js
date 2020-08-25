@@ -29,7 +29,7 @@ class Header extends Component {
       //  "custom"
       return (
          <header id="home">
-            <ParticlesBg type="lines" bg={true} />
+            <ParticlesBg type="color" bg={true} />
             <nav id="nav-wrap">
                <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
