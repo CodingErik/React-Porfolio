@@ -2,7 +2,7 @@
   "main": {
     "name":"Erik De Luna",
     "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
+    "image":"ErikDeLuna.jpg",
     "bio":"Hello my name is Erik, here to learn and build thing we can be proud of together.",
     "contactmessage":"Want to build something together? Send me a message.",
     "email": "dluna5629@icloud.com",
@@ -11,13 +11,13 @@
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "linked":"https://www.linkedin.com/in/erik-deluna-b80b89b3/",
     "address":{
-      "street":"(Your Street)",
+      "street":"Somewhere in the lonestar state",
       "city":"Austin",
       "state":"Texas",
       "zip": "78664"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://github.com/CodingErik",
+    "resumedownload":"https://drive.google.com/file/d/18IcBLtofh-NS7pkyED8z-FOuRPsvJfl9/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
