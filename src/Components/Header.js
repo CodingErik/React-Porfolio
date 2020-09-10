@@ -5,15 +5,15 @@ class Header extends Component {
    render() {
 
       if (this.props.data) {
-         var project = this.props.data.project;
+         // var project = this.props.data.project; // I guess we are not using this at the moment 
          var github = this.props.data.github;
          var linked = this.props.data.linked;
          var name = this.props.data.name;
          var description = this.props.data.description;
-         var city = this.props.data.address.city;
-         var networks = this.props.data.social.map(function (network) {
-            return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-         })
+         // var city = this.props.data.address.city;
+         // var networks = this.props.data.social.map(function (network) {
+         //    return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+         // })
       }
       //  "color"
       //  "ball"
