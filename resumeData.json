@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Erik De Luna",
+    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"ErikDeLuna.jpg",
+    "bio":"Hello my name is Erik, here to learn and build thing we can be proud of together.",
+    "contactmessage":"Want to build something together? Send me a message.",
+    "email": "dluna5629@icloud.com",
+    "phone": "512-589-7353",
+    "github":"https://github.com/CodingErik",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "linked":"https://www.linkedin.com/in/erik-deluna-b80b89b3/",
+    "address":{
+      "street":"Somewhere in the lonestar state",
+      "city":"Austin",
+      "state":"Texas",
+      "zip": "78664"
+    },
+    "website": "https://github.com/CodingErik",
+    "resumedownload":"https://drive.google.com/file/d/1CY6715RUBLEhHswMMUIZOZPr_9pf3xbb/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/erik-deluna-b80b89b3/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CodingErik",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Hello my name is Erik, here to learn and build things we can be proud of together",
+    "education":[
+      {
+        "school":"University of Texas at Austin",
+        "degree":"Web develpement",
+        "graduated":"october 2020",
+        "description":"Studied Software developing, working with the MERN stack"
+      }
+    ],
+    "work":[
+      {
+        "company":"YouTube",
+        "title":"Social media management",
+        "years":"March 2018 - Present",
+        "description":"I work for a youtuber! I'm mostly in charge of managing a collection of social media accounts, and branding/social media deals."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"98%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"node.js",
+        "level":"80%"
+      },
+      {
+        "name":"express.js",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Google-Books-Search",
+        "category":"Allow users to search and save Google Books buy using the Google Books API",
+        "image":"google_search.png",
+        "url":"warm-retreat-07295.herokuapp.com/"
+      },
+      {
+        "title":"Note taker",
+        "category":"Note taker application to write you goals in",
+        "image":"noteTaker.png",
+        "url":"https://notestakerr.herokuapp.com/"
+      },
+      {
+        "title":"Coding Quiz",
+        "category":"Short coding quiz to test your knowledge",
+        "image":"CodingQuiz.png",
+        "url":"https://codingerik.github.io/Coding-Quiz/"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"App that lets you see the see local weather conditions",
+        "image":"WeatherDashboard.png",
+        "url":"https://codingerik.github.io/Weather_DashBoard/"
+      }
+    ]
+  }
+}
+
+
