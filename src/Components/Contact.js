@@ -1,22 +1,23 @@
 import React, { Component } from 'react';
 
 class Contact extends Component {
-  render() {
+   render() {
 
-    if(this.props.data){
-      var name = this.props.data.name;
-      var street = this.props.data.address.street;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
-      var phone= this.props.data.phone;
-      // var email = this.props.data.email; // *** we are not using it at the moment 
-      var message = this.props.data.contactmessage;
-    }
+      if (this.props.data) {
+         var name = this.props.data.name;
+         var street = this.props.data.address.street;
+         var city = this.props.data.address.city;
+         var state = this.props.data.address.state;
+         var zip = this.props.data.address.zip;
+         var phone = this.props.data.phone;
+         // var email = this.props.data.email; // *** we are not using it at the moment 
+         var message = this.props.data.contactmessage;
+      }
 
-    return (
-      <section id="contact">
-
+      return (
+         
+         <div id="contact" style={{textAlign: "center", color: 'red', display: 'flex', justifyContent: 'center'}} >
+            {/* 
          <div className="row section-head">
 
             <div className="two columns header-col">
@@ -109,10 +110,15 @@ class Contact extends Component {
                   </ul>
 		         </div>
             </aside>
-      </div>
-   </section>
-    );
-  }
+      </div> */}
+
+
+               <h1> Email submission is not available at this time. Please contact me
+							via LinkedIn or Github. Thanks!</h1>
+
+         </div>
+      );
+   }
 }
 
 export default Contact;
