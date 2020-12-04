@@ -51,35 +51,39 @@
     ],
     "skills":[
       {
-        "name":"Javascript",
+        "name":"Javascript 98%",
         "level":"98%"
       },
       {
-        "name":"ReactJs",
+        "name":"ReactJs 50%",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"CSS 90%",
         "level":"90%"
       },
       {
-        "name":"node.js",
+        "name":"node.js 80%",
         "level":"80%"
       },
       {
-        "name":"express.js",
+        "name":"express.js 60%",
         "level":"60%"
       },
       {
-        "name":"MySQL",
+        "name":"MySQL 60%",
         "level":"60%"
       },
       {
-        "name":"MongoDB",
+        "name":"MongoDB 60%",
         "level":"60%"
       },
       {
-        "name":"Python",
+        "name":"Python 50%",
+        "level":"50%"
+      },
+      {
+        "name":"Typescript 50%",
         "level":"50%"
       }
     ]

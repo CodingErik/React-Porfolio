@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Erik De Luna",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"I am a web development engineer and I use react and python to develop pages.",
     "image":"ErikDeLuna.jpg",
     "bio":"Hello my name is Erik, here to learn and build thing we can be proud of together.",
     "contactmessage":"Want to build something together? Send me a message.",
@@ -51,35 +51,39 @@
     ],
     "skills":[
       {
-        "name":"Javascript",
+        "name":"Javascript 98%",
         "level":"98%"
       },
       {
-        "name":"ReactJs",
+        "name":"ReactJs 50%",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"CSS 90%",
         "level":"90%"
       },
       {
-        "name":"node.js",
+        "name":"node.js 80%",
         "level":"80%"
       },
       {
-        "name":"express.js",
+        "name":"express.js 60%",
         "level":"60%"
       },
       {
-        "name":"MySQL",
+        "name":"MySQL 60%",
         "level":"60%"
       },
       {
-        "name":"MongoDB",
+        "name":"MongoDB 60%",
         "level":"60%"
       },
       {
-        "name":"Python",
+        "name":"Python 50%",
+        "level":"50%"
+      },
+      {
+        "name":"Typescript 50%",
         "level":"50%"
       }
     ]
