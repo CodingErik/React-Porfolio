@@ -94,7 +94,7 @@
         "title":"Google-Books-Search",
         "category":"Allow users to search and save Google Books buy using the Google Books API",
         "image":"google_search.png",
-        "url":"warm-retreat-07295.herokuapp.com/",
+        "url":"https://warm-retreat-07295.herokuapp.com/",
         "tech":"Tech used includes React, node.js, express.js, mongoose"
       },
       {
