@@ -20,6 +20,7 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
+            <div>{projects.tech}</div>
           </div>
         )
       })
