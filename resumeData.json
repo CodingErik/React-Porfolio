@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Erik De Luna",
-    "description":"I am a web development engineer and I use react and python to develop pages.",
+    "description":"I am a web development engineer and I use javascript and Typescript to develop pages.",
     "image":"ErikDeLuna.jpg",
     "bio":"Hello my name is Erik, here to learn and build thing we can be proud of together.",
     "contactmessage":"Want to build something together? Send me a message.",
@@ -94,25 +94,29 @@
         "title":"Google-Books-Search",
         "category":"Allow users to search and save Google Books buy using the Google Books API",
         "image":"google_search.png",
-        "url":"warm-retreat-07295.herokuapp.com/"
+        "url":"https://warm-retreat-07295.herokuapp.com/",
+        "tech":"Tech used includes React, node.js, express.js, mongoose"
       },
       {
         "title":"Note taker",
         "category":"Note taker application to write you goals in",
         "image":"noteTaker.png",
-        "url":"https://notestakerr.herokuapp.com/"
+        "url":"https://notestakerr.herokuapp.com/",
+        "tech":"Tech used includes node.js, express.js"
       },
       {
         "title":"Coding Quiz",
         "category":"Short coding quiz to test your knowledge",
         "image":"CodingQuiz.png",
-        "url":"https://codingerik.github.io/Coding-Quiz/"
+        "url":"https://codingerik.github.io/Coding-Quiz/",
+        "tech":"Tech used includes javascript, jquery, moment.js"
       },
       {
         "title":"Weather Dashboard",
         "category":"App that lets you see the see local weather conditions",
         "image":"WeatherDashboard.png",
-        "url":"https://codingerik.github.io/Weather_DashBoard/"
+        "url":"https://codingerik.github.io/Weather_DashBoard/",
+        "tech":"Tech used includes javascript, jquery, moment.js, Bootstrap"
       }
     ]
   }
